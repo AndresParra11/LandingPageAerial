@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/LandingPageAerial/static/js/main.754e25e9.js",
+    "static/media/person4.png": "/LandingPageAerial/static/media/person4.cea95fd93a23feedde54.png",
+    "static/media/person3.png": "/LandingPageAerial/static/media/person3.39adbe9932893d5b9e9f.png",
+    "static/media/person6.png": "/LandingPageAerial/static/media/person6.c058c1339d7ee3e19ae8.png",
+    "static/media/person1.png": "/LandingPageAerial/static/media/person1.6e71636c5fcf7d63d730.png",
+    "static/media/person2.png": "/LandingPageAerial/static/media/person2.77fb08bb7bacae7a8e86.png",
+    "static/media/person5.png": "/LandingPageAerial/static/media/person5.5f7954d0f9f0df19e5ff.png",
+    "index.html": "/LandingPageAerial/index.html",
+    "main.754e25e9.js.map": "/LandingPageAerial/static/js/main.754e25e9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.754e25e9.js"
+  ]
+}
